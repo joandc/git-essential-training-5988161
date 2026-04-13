@@ -1,1 +1,1 @@
-This is sample content.
+This is content
